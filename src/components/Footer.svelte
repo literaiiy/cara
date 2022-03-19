@@ -3,13 +3,21 @@
 </script>
 
 <footer>
-  Copyright © {year} <a href="">literaiiy</a>. Built with <a href="">SvelteKit</a> & powered by <a href="">Vercel</a>.
+  Copyright © {year} <a href="https://literaiiy.me">literaiiy</a>.
+  Built with <a href="https://kit.svelte.dev">SvelteKit</a> &
+  powered by <a href="https://vercel.com">Vercel</a>.
 </footer>
 
 <style>
   footer {
-
-    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 0.25rem 0.5rem;
+    font-family: 'system-ui', Courier, monospace;
     background-color: lightgray;
+  }
+
+  a {
+    text-decoration: none;
+    color: green;
   }
 </style>
