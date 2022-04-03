@@ -11,13 +11,9 @@
 <style>
   footer {
     text-align: center;
-    padding: 0.25rem 0.5rem;
+    padding: 1rem 0;
     font-family: 'system-ui', Courier, monospace;
-    background-color: lightgray;
-  }
-
-  a {
-    text-decoration: none;
-    color: green;
+    background-color: #343434;
+    color: #dedede;
   }
 </style>
