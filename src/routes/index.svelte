@@ -13,7 +13,13 @@
     <hr>
     <li><a href="https://yieldbread.com">YieldBread</a> — Student blog about moneymaking</li>
     <hr>
-    <li><a href="https://status.literaiiy.me">Status</a></li>
+    <li class="statusBar">
+      <a href="https://status.literaiiy.me">Status</a>
+       · 
+      <a href="https://github.com/literaiiy">
+        <img class="smallLogo" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="my GitHub">
+      </a>
+    </li>
   </ul>
 </main>
 
@@ -45,5 +51,17 @@
     list-style: none;
     padding: 0;
     margin: 0;
+  }
+
+  .statusBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .75rem;
+  }
+
+  .smallLogo {
+    height: 1.75rem;
+    width: 1.75rem;
   }
 </style>

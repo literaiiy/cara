@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-  Copyright © {year} <a href="https://literaiiy.me">literaiiy</a>.
+  Copyright © {year} <a href="https://literaiiy.me">Ethan Yim</a>.
   Built with <a href="https://kit.svelte.dev">SvelteKit</a> &
   powered by <a href="https://vercel.com">Vercel</a>.
 </footer>
