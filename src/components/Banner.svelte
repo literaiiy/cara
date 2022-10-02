@@ -14,11 +14,11 @@
   });
 </script>
 
-<span class="banner">This is a work in progress. Visit <a href="https://literaiiy.me">literaiiy.me</a> for the current site.</span>
+<span class="banner"><a href="/">literaiiy.me</a> now redirects here. Visit <a href="https://v3.literaiiy.me">v3.literaiiy.me</a> for the old site.</span>
 
 <style>
   .banner {
-    background-color: #ef3554;
+    background-color: #359bef;
     color: white;
     position: absolute;
     top: -2rem;
