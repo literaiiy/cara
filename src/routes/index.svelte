@@ -5,13 +5,13 @@
 <main>
   <h1 class="name-header"><b>Ethan Y</b>im</h1>
   <ul class="linksList">
-    <li><a href="https://dah.li/a">dah.li/a</a> — Personal blog</li>
-    <li><a href="https://toolbox.literaiiy.me">literaiiy Toolbox</a> — Rudimentary web tools</li>
-    <li><a href="https://tiramisu.vip">tiramisu</a> — Hypixel player stats site</li>
-    <li><a href="https://passiflora.literaiiy.me">Passiflora</a> — Customizable schedule creation webapp </li>
-    <li><a href="https://campanula.literaiiy.me">Campanula</a> — Customizable & sleek pomodoro timer</li>
+    <li><a href="https://dah.li/a">🌻 dah.li/a</a> — Personal blog</li>
+    <li><a href="https://toolbox.literaiiy.me">🧰 literaiiy Toolbox</a> — Rudimentary web tools</li>
+    <li><a href="https://tiramisu.vip">🍰 tiramisu</a> — Hypixel player stats site</li>
+    <li><a href="https://passiflora.literaiiy.me">🌺 Passiflora</a> — Customizable schedule creation webapp </li>
+    <li><a href="https://campanula.literaiiy.me">🌹 Campanula</a> — Customizable & sleek pomodoro timer</li>
     <hr>
-    <li><a href="https://yieldbread.com">YieldBread</a> — Student blog about moneymaking</li>
+    <li><a href="https://yieldbread.com">🍞 YieldBread</a> — Student blog about moneymaking</li>
     <hr>
     <li class="statusBar">
       <a href="https://status.literaiiy.me">Status</a>
