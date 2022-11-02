@@ -16,6 +16,8 @@
     <li class="statusBar">
       <a href="https://status.literaiiy.me">Status</a>
        · 
+      <a href="mailto:contact@ethany.im">Contact</a>
+       · 
       <a href="https://github.com/literaiiy">
         <img class="smallLogo" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="my GitHub">
       </a>
