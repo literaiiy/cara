@@ -4,7 +4,7 @@
   import "../app.css"
 </script>
 
-<Banner />
+<!-- <Banner /> -->
 <slot></slot>
 <Footer />
 
