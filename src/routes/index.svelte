@@ -10,6 +10,7 @@
     <li><a href="https://tiramisu.vip">🍰 tiramisu</a> — Hypixel player stats site</li>
     <li><a href="https://passiflora.literaiiy.me">🌺 Passiflora</a> — Customizable schedule creation webapp </li>
     <li><a href="https://campanula.literaiiy.me">🌹 Campanula</a> — Customizable & sleek pomodoro timer</li>
+    <li><a href="https://ibahm.org">🛣 IBAHM</a> — Interactive resource</li>
     <hr>
     <li><a href="https://yieldbread.com">YieldBread</a> — Student blog about moneymaking</li>
     <hr>
